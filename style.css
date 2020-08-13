@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
+/*----- structure -------*/
+
+body {
+  margin: 0;
+  background-color : azure;
+}
+/*-------- logo ------*/
+
+header h1 {
+  margin: 1;
+  color:antiquewhite;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size:40px;
+  background-color: grey;
+   padding: 5px;
+  text-align: center;
+  height: 50px;
+}
+/*----- headings -----*/
+
+   h2, h3 {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+  text-align: center;
+  font-size:25px;
+  color: lightslategray;
+  }
+
+p{
+  text-align: center;
+}
+
+/* Link Colors */
+
+a:link    {color:brown;}
+a:visited {color:blue; }
+a:hover   {color:red}
+a:active  {color:blueviolet}  
+footer {
+  background-color:lightgray;
+  padding: 3;
+}
+/*------ clasees-----*/
+.white {
+  color:grey;
+}
+.center {
+  text-align: center;
+}
+
